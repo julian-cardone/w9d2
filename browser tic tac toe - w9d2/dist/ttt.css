@@ -15,7 +15,7 @@ ul {
 ul li {
     width: 200px;
     height: 140px;
-    border: solid, 5px, black;
+    border: solid 5px black;
     background-color: grey;
     font-size: 50px;
     text-align: center;
